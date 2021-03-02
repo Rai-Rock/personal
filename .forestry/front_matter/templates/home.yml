@@ -10,3 +10,6 @@ fields:
 - name: insert_content_here
   type: boolean
   label: insert content here
+  showOnly:
+    field: insert_content_here
+    value: true

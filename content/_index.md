@@ -6,3 +6,6 @@ seo:
   image: "/images/hero-2.jpg"
 
 ---
+1. ciao
+2. test
+3. list
